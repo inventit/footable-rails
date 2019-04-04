@@ -26,7 +26,7 @@ In your `application.js` you will need to add this line:
    
 And in your `application.css` you will need to add this line:
 
-    *= require footable
+    @import "footable.bootstrap";
 
 ## Contributing
 
